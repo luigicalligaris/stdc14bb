@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "stdc14-to-100mil-breakout")(type "KiCad")(uri "${KIPRJMOD}/stdc14-to-100mil-breakout.kicad_sym")(options "")(descr ""))
+)
